@@ -16,16 +16,29 @@
       android:orientation="vertical">
 
       <Button
+        android:id="@+id/disableFox"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:background="#00FF00"
-        android:text="Button Fixed color background" />
+        android:text="Disable Fox Button" />
       <Button
+          android:id="@+id/foxBtn"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:background="@drawable/animals"
+        android:background="@drawable/fox"
         android:textColor="#4C3B3B"
         android:textStyle="bold" />
+      <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Button Enable"
+        />
+      <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:enabled="false"
+        android:text="Button Disable"
+        />
     </LinearLayout>
   </androidx.core.widget.NestedScrollView>
 
