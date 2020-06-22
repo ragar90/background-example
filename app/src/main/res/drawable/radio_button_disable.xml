@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/radio_btn_outside_disable"/>
+        </shape>
+    </item>
+    <item android:top="@dimen/radios_diff"
+        android:bottom="@dimen/radios_diff"
+        android:right="@dimen/radios_diff"
+        android:left="@dimen/radios_diff">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/radio_btn_disable"/>
+        </shape>
+    </item>
+</layer-list>

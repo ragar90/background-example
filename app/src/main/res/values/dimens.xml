@@ -2,4 +2,5 @@
 <resources>
     <dimen name="button_stroke">5dp</dimen>
     <dimen name="round_border_radios">20dp</dimen>
+    <dimen name="radios_diff">10dp</dimen>
 </resources>

@@ -7,4 +7,14 @@
     <item name="colorAccent">@color/colorAccent</item>
   </style>
 
+  <style name="AppTheme.RadioButton">
+    <item name="android:background">@drawable/radio_button</item>
+    <item name="android:button">@null</item>
+    <item name="android:layout_marginStart">20dp</item>
+    <item name="android:layout_marginEnd">20dp</item>
+    <item name="android:layout_width">50dp</item>
+    <item name="android:layout_height">50dp</item>
+    <item name="android:layout_weight">1</item>
+  </style>
+
 </resources>

@@ -8,4 +8,9 @@
   <color name="colorPressed">#E30E0E</color>
   <color name="colorStartPressed">#E85F5F</color>
   <color name="colorBackground">#EDE3DA</color>
+  <color name="radio_btn_outside">#DBF1F1</color>
+  <color name="radio_btn_outside_disable">#FBFDFD</color>
+  <color name="radio_btn_inside">#B9BABA</color>
+  <color name="radio_btn_disable">#D8DCDC</color>
+  <color name="radio_btn_inside_checked">#3EF13E</color>
 </resources>
