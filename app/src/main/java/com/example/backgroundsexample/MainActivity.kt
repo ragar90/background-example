@@ -16,5 +16,9 @@ class MainActivity : AppCompatActivity() {
       val state = foxBtn.isEnabled
       foxBtn.isEnabled = !state
     }
+    foxBtn.setOnClickListener {
+      val state = disableFox.isEnabled
+      disableFox.isEnabled = !state
+    }
   }
 }
