@@ -7,4 +7,5 @@
   <color name="colorDisable">#828585</color>
   <color name="colorPressed">#E30E0E</color>
   <color name="colorStartPressed">#E85F5F</color>
+  <color name="colorBackground">#EDE3DA</color>
 </resources>
