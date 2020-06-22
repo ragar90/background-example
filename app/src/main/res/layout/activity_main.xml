@@ -20,6 +20,12 @@
         android:layout_height="50dp"
         android:background="#00FF00"
         android:text="Button Fixed color background" />
+      <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/animals"
+        android:textColor="#4C3B3B"
+        android:textStyle="bold" />
     </LinearLayout>
   </androidx.core.widget.NestedScrollView>
 
