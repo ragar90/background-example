@@ -19,6 +19,7 @@
         android:id="@+id/disableFox"
         android:layout_width="match_parent"
         android:layout_height="50dp"
+        android:textColor="@color/button_text_color"
         android:background="@drawable/square_border"
         android:text="Disable Fox Button" />
       <Button
